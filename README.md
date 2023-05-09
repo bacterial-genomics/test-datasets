@@ -1,20 +1,18 @@
 # ![nfcore/test-datasets](docs/images/test-datasets_logo.png)
 Test data to be used for automated testing with the nf-core pipelines
 
-> ⚠️ **Do not merge your test data to `master`! Each pipeline has a dedicated branch (and a special one for modules)**
+## Test data for wf-paired-end-illumina-assembly
 
-## Introduction
+This branch contains test data for the [wf-paired-end-illumina-assembly](https://github.com/gregorysprenger/wf-paired-end-illumina-assembly) pipeline.
 
-nf-core is a collection of high quality Nextflow pipelines. This repository contains various files for CI and unit testing of nf-core pipelines and infrastructure.
+## Mini test data
+The `samplesheet.csv` links to data from a *Burkholderia pseudomallei* found in a freshwater aquarium originating from [Dawnson et al. *Emerging Infectious Diseases* (2021)](https://doi.org/10.3201/eid2712.211756).
 
-The principle for nf-core test data is as small as possible, as large as necessary. Please see the [guidelines](https://nf-co.re/docs/contributing/test_data_guidelines) for more detailed information. Always ask for guidance on the [nf-core slack](https://nf-co.re/join) before adding new test data.
+To make this data as small as possible, only the top 250k reads were used from SRA data SRR16343585.
 
-## Documentation
+## Full-size test data
 
-nf-core/test-datasets comes with documentation in the `docs/` directory:
-
-01. [Add a new  test dataset](https://github.com/nf-core/test-datasets/blob/master/docs/ADD_NEW_DATA.md)
-02. [Use an existing test dataset](https://github.com/nf-core/test-datasets/blob/master/docs/USE_EXISTING_DATA.md)
+The `samplesheet.full.csv` links to data from a nearly complete draft genome of *Corynebacterium mastitidis* originating from [Cheleuitte-Nieves C et al. *Genome Announcements* (2018)](https://doi.org/10.1128/genomeA.00050-18).
 
 ## Downloading test data
 
@@ -33,6 +31,6 @@ git fetch
 
 ## Support
 
-For further information or help, don't hesitate to get in touch on our [Slack organisation](https://nf-co.re/join/slack) (a tool for instant messaging).
+For further information or help, don't hesitate to get in touch.
 
 [^1]: From [stackoverflow](https://stackoverflow.com/a/60846265/11502856)
