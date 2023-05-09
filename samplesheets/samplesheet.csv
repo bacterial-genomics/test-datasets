@@ -1,2 +1,2 @@
-sample,fastq_1,fastq2
+sample,fastq_1,fastq_2
 test_miniburk,https://github.com/gregorysprenger/test-datasets/raw/assembly/test_data/test_miniburk_R1.fastq.gz,https://github.com/gregorysprenger/test-datasets/raw/assembly/test_data/test_miniburk_R2.fastq.gz
