@@ -1,20 +1,14 @@
 # ![nfcore/test-datasets](docs/images/test-datasets_logo.png)
 Test data to be used for automated testing with the nf-core pipelines
 
-> ⚠️ **Do not merge your test data to `master`! Each pipeline has a dedicated branch (and a special one for modules)**
+## Test data for wf-ani
 
-## Introduction
+This branch contains test data for the [wf-ani](https://github.com/gregorysprenger/wf-ani) pipeline.
 
-nf-core is a collection of high quality Nextflow pipelines. This repository contains various files for CI and unit testing of nf-core pipelines and infrastructure.
+## Mini test data
+The `samplesheet.csv` links to data from a *Streptomyces cavourensis* found in a a salt lake originating from [Chong et al. *Data in Brief* (2023)](https://doi.org/10.1016/j.dib.2022.108877).
 
-The principle for nf-core test data is as small as possible, as large as necessary. Please see the [guidelines](https://nf-co.re/docs/contributing/test_data_guidelines) for more detailed information. Always ask for guidance on the [nf-core slack](https://nf-co.re/join) before adding new test data.
-
-## Documentation
-
-nf-core/test-datasets comes with documentation in the `docs/` directory:
-
-01. [Add a new  test dataset](https://github.com/nf-core/test-datasets/blob/master/docs/ADD_NEW_DATA.md)
-02. [Use an existing test dataset](https://github.com/nf-core/test-datasets/blob/master/docs/USE_EXISTING_DATA.md)
+Test data used are [CP024957](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/804/165/GCF_002804165.1_ASM280416v1/GCF_002804165.1_ASM280416v1_genomic.fna.gz) and [2BA6PG](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/024/297/125/GCF_024297125.1_ASM2429712v1/GCF_024297125.1_ASM2429712v1_genomic.fna.gz).
 
 ## Downloading test data
 
@@ -33,6 +27,6 @@ git fetch
 
 ## Support
 
-For further information or help, don't hesitate to get in touch on our [Slack organisation](https://nf-co.re/join/slack) (a tool for instant messaging).
+For further information or help, don't hesitate to get in touch.
 
 [^1]: From [stackoverflow](https://stackoverflow.com/a/60846265/11502856)
