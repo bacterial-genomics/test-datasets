@@ -3,7 +3,7 @@ Test data to be used for automated testing with the nf-core pipelines
 
 ## Test data for wf-ani
 
-This branch contains test data for the [wf-ani](https://github.com/gregorysprenger/wf-ani) pipeline.
+This branch contains test data for the [wf-ani](https://github.com/bacterial-genomics/wf-ani) pipeline.
 
 ## Mini test data
 The `samplesheet.csv` links to data from a *Streptomyces cavourensis* found in a a salt lake originating from [Chong et al. *Data in Brief* (2023)](https://doi.org/10.1016/j.dib.2022.108877).
