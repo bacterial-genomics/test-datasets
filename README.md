@@ -3,7 +3,7 @@ Test data to be used for automated testing with the nf-core pipelines
 
 ## Test data for wf-paired-end-illumina-assembly
 
-This branch contains test data for the [wf-paired-end-illumina-assembly](https://github.com/gregorysprenger/wf-paired-end-illumina-assembly) pipeline.
+This branch contains test data for the [wf-paired-end-illumina-assembly](https://github.com/bacterial-genomics/wf-paired-end-illumina-assembly) pipeline.
 
 ## Mini test data
 The `samplesheet.csv` links to data from a *Burkholderia pseudomallei* found in a freshwater aquarium originating from [Dawnson et al. *Emerging Infectious Diseases* (2021)](https://doi.org/10.3201/eid2712.211756).
