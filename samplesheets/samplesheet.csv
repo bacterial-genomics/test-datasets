@@ -1,3 +1,3 @@
 sample,file
-2BA6PG,https://github.com/gregorysprenger/test-datasets/raw/ani/test_data/2BA6PG.fna.gz
-CP024957,https://github.com/gregorysprenger/test-datasets/raw/ani/test_data/CP024957.fna.gz
+Riemerella_columbipharyngis_DSM_24015,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/900/101/995/GCA_900101995.1_IMG-taxon_2675903161_annotated_assembly/GCA_900101995.1_IMG-taxon_2675903161_annotated_assembly_genomic.gbff.gz
+Riemerella_anatipestifer_ATCC_11845,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/252/855/GCA_000252855.1_ASM25285v1/GCA_000252855.1_ASM25285v1_genomic.gbff.gz
