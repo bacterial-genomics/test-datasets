@@ -5,8 +5,10 @@ Test data to be used for automated testing with the nf-core pipelines
 
 This branch contains test data for the [wf-aai](https://github.com/gregorysprenger/wf-aai) pipeline.
 
-## Mini test data
-The `samplesheet.csv` links to data originating from [Nicholson et al. *International journal of systematic and evolutionary microbiology* (2020)](https://doi.org/10.1099/ijsem.0.003935), where the genus *Chryseobacterium* was divided due to the analysis of Average Amino Acid Identity (AAI).
+## Test data
+The mini test dataset `samplesheet.csv` and the full test dataset `samplesheet.full.csv` contain paths to data originating from [Nicholson et al. *International journal of systematic and evolutionary microbiology* (2020)](https://doi.org/10.1099/ijsem.0.003935), where Average Amino Acid Identity (AAI) was used to divide the genus *Chryseobacterium*.
+
+The data in the samplesheets were parsed from the file `Supplemental material 2`.
 
 ## Downloading test data
 
