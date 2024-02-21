@@ -1,9 +1,9 @@
 # ![nfcore/test-datasets](docs/images/test-datasets_logo.png)
 Test data to be used for automated testing with the nf-core pipelines
 
-## Test data for wf-aai
+## Test data for wf-pocp
 
-This branch contains test data for the [wf-aai](https://github.com/bacterial-genomics/wf-aai) pipeline.
+This branch contains test data for the [wf-pocp](https://github.com/bacterial-genomics/wf-pocp) pipeline.
 
 ## Test data
 The mini test dataset `samplesheet.csv` and the full test dataset `samplesheet.full.csv` contain paths to data originating from [Nicholson et al. *International journal of systematic and evolutionary microbiology* (2020)](https://doi.org/10.1099/ijsem.0.003935), where Average Amino Acid Identity (AAI) was used to divide the genus *Chryseobacterium*.
