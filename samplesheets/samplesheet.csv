@@ -1,3 +1,5 @@
 sample,file
-2BA6PG,https://github.com/bacterial-genomics/test-datasets/raw/ani/test_data/2BA6PG.fna.gz
-CP024957,https://github.com/bacterial-genomics/test-datasets/raw/ani/test_data/CP024957.fna.gz
+GCA_002587385.1_ASM258738v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/587/385/GCA_002587385.1_ASM258738v1/GCA_002587385.1_ASM258738v1_genomic.fna.gz
+GCA_002596765.1_ASM259676v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/596/765/GCA_002596765.1_ASM259676v1/GCA_002596765.1_ASM259676v1_genomic.fna.gz
+GCA_002598005.1_ASM259800v1,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/598/005/GCA_002598005.1_ASM259800v1/GCA_002598005.1_ASM259800v1_genomic.fna.gz
+GCF_000819615.1_ViralProj14015,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/819/615/GCF_000819615.1_ViralProj14015/GCF_000819615.1_ViralProj14015_genomic.fna.gz

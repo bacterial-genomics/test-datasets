@@ -1,14 +1,12 @@
 # ![nfcore/test-datasets](docs/images/test-datasets_logo.png)
 Test data to be used for automated testing with the nf-core pipelines
 
-## Test data for wf-ani
+## Test data for wf-assembly-snps
 
-This branch contains test data for the [wf-ani](https://github.com/bacterial-genomics/wf-ani) pipeline.
+This branch contains test data for the [wf-assembly-snps](https://github.com/bacterial-genomics/wf-assembly-snps) pipeline.
 
 ## Mini test data
-The `samplesheet.csv` links to data from a *Streptomyces cavourensis* found in a a salt lake originating from [Chong et al. *Data in Brief* (2023)](https://doi.org/10.1016/j.dib.2022.108877).
-
-Test data used are [CP024957](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/002/804/165/GCF_002804165.1_ASM280416v1/GCF_002804165.1_ASM280416v1_genomic.fna.gz) and [2BA6PG](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/024/297/125/GCF_024297125.1_ASM2429712v1/GCF_024297125.1_ASM2429712v1_genomic.fna.gz).
+`samplesheet.csv`
 
 ## Downloading test data
 
